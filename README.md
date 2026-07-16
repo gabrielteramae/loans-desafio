@@ -76,10 +76,6 @@ POST /customer-loans
 | Renda 3000-5000, idade >= 30 (ou fora de SP)     | Nenhum empréstimo                              |
 | Renda >= 5000                                     | CONSIGNMENT                                       |
 
-## Deploy
-
-Pronto para subir no [Railway](https://railway.app): start command `uvicorn app.main:app --host 0.0.0.0 --port $PORT`.
-
 ---
 
 © 2026 Gabriel Teramae Chan
