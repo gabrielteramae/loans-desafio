@@ -2,7 +2,6 @@
 
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0.115-009688?logo=fastapi&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-blue)
 
 Solução para o desafio [`backend-br/desafios/loans`](https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md): determinar quais modalidades de empréstimo um cliente tem acesso, com base em idade, salário e localização.
 
